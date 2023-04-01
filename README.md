@@ -1,7 +1,7 @@
 # convo_starter
 
 # Purpose
-A tool to provide a conversation a direction, when it seems to die off or you get to that awkward silence. 
+A tool to help start a conversation by providing direction, if you get to than awkward silence. 
 
 # Requirements
 Deck of Playing Cards
