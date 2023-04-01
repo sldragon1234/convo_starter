@@ -9,10 +9,10 @@ Deck of Playing Cards
 # Symbols and Descriptions
 | Symbol | Type | Descriptions |
 | ------ | ---- | ----------- |
-| | Diamond | Personal |
-| | Spade | Anything |
-| | Heart | Family |
-| | Club | Work |
+| :diamonds: | Diamond | Personal |
+| :spades: | Spade | Anything |
+| :hearts: | Heart | Family |
+| :clubs: | Club | Work |
 
 
 | Card | Description |
