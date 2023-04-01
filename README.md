@@ -7,39 +7,31 @@ A tool to provide a conversation a direction, when it seems to die off or you ge
 Deck of Playing Cards
 
 # Symbols and Descriptions
-| Symbol | Type | Descriptions |
-| ------ | ---- | ----------- |
-| :diamonds: | Diamond | Personal |
-| :spades: | Spade | Anything |
-| :hearts: | Heart | Family |
-| :clubs: | Club | Work |
-
-
-| Card | Description |
-| ---- | ----------- |
-| 1 | Favitore Person/Thing |
-| 2 | Pet Peave |
-| 3 | Goals/Planning |
-| 4 | Sucess |
-| 5 | Accomplishments |
-| 6 | Improvements |
-| 7 | Stress |
-| 8 | Injury |
-| 9 | Favitore Food/Meal |
-| 10 | Disappointment/Complaint |
-| J | Favitore Topic |
-| Q | History |
-| K | Activity/Sport |
-| A | Vacation/Travel |
-| Joker | Tell a Joke |
+| Suite | Type | Suite Descriptions | - | Card | Card Description |
+| ------ | ---- | ----------- | - | ---- | ----------- |
+| :diamonds: | Diamond | Personal | - | 1 | Favitore Person/Thing |
+| :spades: | Spade | Anything | - | 2 | Pet Peave |
+| :hearts: | Heart | Family | - | 3 | Goals/Planning |
+| :clubs: | Club | Work | - | 4 | Sucess |
+|  |  |  | - | 5 | Accomplishments |
+|  |  |  | - | 6 | Improvements |
+|  |  |  | - | 7 | Stress |
+|  |  |  | - | 8 | Injury |
+|  |  |  | - | 9 | Favitore Food/Meal |
+|  |  |  | - | 10 | Disappointment/Complaint |
+|  |  |  | - | J | Favitore Topic |
+|  |  |  | - | Q | History |
+|  |  |  | - | K | Activity/Sport |
+|  |  |  | - | A | Vacation/Travel |
+|  |  |  | - | Joker | Tell a Joke |
 
 # How it works
-Shuffle a deck of playing cards
-Place a deck of playing cards on a flat surface
-The person who places the cards down goes first
-The person will flip over the top card
-Use the "Symbols and Descriptions" section to determine the conversation starter based on the card flipped
-Use the Suite and then Card Number
+1. Shuffle a deck of playing cards
+2. Place a deck of playing cards on a flat surface
+3. The person who places the cards down goes first
+4. The person will flip over the top card
+5. Use the "Symbols and Descriptions" section to determine the conversation starter based on the card flipped
+6. Use the Suite and then Card Number
 
 # Example
 Joe suffles the deck and places it on the table. He then flips over the top card which turns out to reveal a nine of clubs. Joe would then look check the "Symbols and Descriptions" and find that the club represents "Work" and nine reprents "Favitore Food/Meal". Joe can now start a conversation to talk about a time his life were a meal either by doing work or at work left a favorable impression on him. 
